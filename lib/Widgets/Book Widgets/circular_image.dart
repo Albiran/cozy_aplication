@@ -27,7 +27,7 @@ class CircularImage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 10),
           child: Text(
-            'ALBIRAN',
+            'ELLYANA',
             style: GoogleFonts.poppins(
               fontSize: 20,
             ),
@@ -36,7 +36,7 @@ class CircularImage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 10),
           child: Text(
-            "12 : 10 minutes",
+            "10 : 10 minutes",
             style: GoogleFonts.poppins(
               fontSize: 15,
             ),

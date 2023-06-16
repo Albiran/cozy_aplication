@@ -15,7 +15,7 @@ class BookPage extends StatelessWidget {
           Colors.purple,
           Color.fromARGB(255, 171, 81, 114)
         ]),
-        title: const Text('IPHONE BUBU'),
+        title: const Text('VIVO'),
       ),
       body: SafeArea(
         child: ListView(
